@@ -11,3 +11,7 @@ How to use:
 2. Edit file example-env.txt and rename file with ".env"
 3. `npm i`
 4. `npm start` or `node ./src`
+
+Next Project Open Source (Coming Soon):
+1. Integrate Simple Blockchain Data With IPFS
+2. Build API using Framework [Fastify](https://www.fastify.io/) + Blockchain Data
